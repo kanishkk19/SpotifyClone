@@ -11,8 +11,9 @@ Deployed websie: https://kanishkk19.github.io/SpotifyClone/
 
 <hr>
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90362538/187638292-8c8cdebf-ee0b-4d1b-a5f3-2a6f1980446d.png" width="500" /> 
+  
   <img src="https://user-images.githubusercontent.com/90362538/187637924-a926cdea-61f2-41fd-b37a-c194e6d0a60f.png" width="500" />
+  ![alt text](https://github.com/kanishkk19/SpotifyClone/blob/main/ss1.jpg?raw=true)
 </p>
 <hr>
 
