@@ -13,6 +13,8 @@ Deployed websie: https://kanishkk19.github.io/SpotifyClone/
 <p float="left">
   
   <img src="https://github.com/kanishkk19/SpotifyClone/blob/main/ss1.png?raw=true" width="500" />
+  
+  <img src="https://github.com/kanishkk19/SpotifyClone/blob/main/ss2.png?raw=true" width="500" />
  
 </p>
 <hr>
