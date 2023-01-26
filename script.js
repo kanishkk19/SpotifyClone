@@ -46,17 +46,17 @@ let songs = [
     coverPath: "covers/7.jpg",
   },
   {
-    songName: "Bhula Dena - Salam-e-Ishq",
+    songName: "The Weeknd - Save Your Tears",
     filePath: "songs/2.mp3",
     coverPath: "covers/8.jpg",
   },
   {
-    songName: "Tumhari Kasam - Salam-e-Ishq",
+    songName: "295 - Sidhu Moose Wala",
     filePath: "songs/2.mp3",
     coverPath: "covers/9.jpg",
   },
   {
-    songName: "Na Jaana - Salam-e-Ishq",
+    songName: "Drake - Take Care feat. Rhianna",
     filePath: "songs/4.mp3",
     coverPath: "covers/10.jpg",
   },
