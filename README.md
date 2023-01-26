@@ -1,13 +1,13 @@
 # 📻 SpotifyClone
 
-Created an interactive dice game website that prompts user to enter 2 name inputs, randomly assigns them a dice value each, displays their number and dice images, compares and declares results.
+A Spotify clone that features 10 different songs, has the features to play, pause, seek, forward and rewind the song, anytime, anywhere!
 
 
 <hr>
 DEPLOYEMENT:
 <br>
 <br>
-Deployed websie: https://kanishkk19.github.io/DiceGame/ 
+Deployed websie: https://kanishkk19.github.io/SpotifyClone/
 
 <hr>
 <p float="left">
